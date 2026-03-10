@@ -19,7 +19,7 @@ export const posts: Post[] = [
     paragraphs: [
       "I went down a huge rabbit hole today reading about how this city was planned.",
       "Apparently most of the waterfront redevelopment here was guided by a long-term government planning document.",
-      "I found a massive PDF from a government site explaining how the downtown area would evolve over the next decades.",
+      "I found a massive PDF from a government site for the year 2022-2023 explaining how the downtown area would evolve over the next decades.",
       "It had maps of the bay area and infrastructure plans.",
       "I forgot to bookmark the link but I remember it was hosted somewhere on a .gov.sg site."
     ]
@@ -31,9 +31,11 @@ export const posts: Post[] = [
     excerpt: "A late-night scroll through the feed of a place everyone photographs.",
     paragraphs: [
       "Someone at the hostel asked if I post my travel photos anywhere besides this blog.",
+      "I realised I mostly just lurk these days — especially on the official Instagram pages of places I visit.",
       "I realised I still follow the official account for that giant garden-by-the-bay place everyone photographs here.",
-      "I spent way too long scrolling through it again tonight.",
-      "Funny how some places look even stranger on social media than in real life."
+      "Tonight I ended up scrolling through the account for that massive garden near the bay with those strange metal tree structures.",
+      "They had a bunch of story highlights saved on their profile. I got distracted clicking through them for way longer than I expected.",
+      "I even managed to see myself in one of their highlights, what a nice surprise"
     ]
   },
   {
