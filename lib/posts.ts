@@ -60,9 +60,9 @@ export const posts: Post[] = [
     excerpt: "A short airport note written while waiting to board.",
     paragraphs: [
       "I didn’t expect to leave so quickly but I found a cheap ticket.",
-      "I’m currently sitting in Changi Airport Terminal 1 waiting to board.",
-      "The departure board showed TR47 something but I couldn’t see the final digit from where I was sitting.",
-      "Boarding starts around 23:55."
+      "I’m currently sitting in Changi Airport Terminal 3 waiting to board.",
+      "The departure board showed SQ8 something but I couldn’t see the other digits from where I was sitting.",
+      "Boarding starts around 23:30."
     ]
   }
 ];
